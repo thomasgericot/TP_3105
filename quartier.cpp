@@ -9,7 +9,8 @@
 
 //...
 std::ostream& operator << (std::ostream& os, const Quartier& q) {
-   //...
+cout<<"heysalut"<<endl;   
+//...
   return os;
 }
 

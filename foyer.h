@@ -1,4 +1,4 @@
-/*
+cjbcbdubudbibuz/*
   INF3105 -- Structures de données et algorithmes
   UQAM | Département d'informatique
   Hiver 2020 | TP1 | foyer.h
